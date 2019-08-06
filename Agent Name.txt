@@ -1,0 +1,204 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+
+
+Name agent change
+------------------------------
+how can I rename you
+I'll change your first name to John
+do you mind if I rename you
+I'd like to give you another name
+change your name
+would you like to change your name
+do you mind if I change your name to Peter
+I'd like to change your first name
+I'll give you a different name
+let's rename you
+let's give you a different name
+can I rename you
+I'd like to change your name
+I think you should change your nickname to Wild
+I want like to call you Mike from now on
+how can I change your name to Anna
+change your name to Sam
+do you mind if I change your surname to Johnson
+can I change your surname to Smith
+I'd like to change your nickname to Bob
+I think you should change your surname
+I'll change your name
+how can I change your nickname
+how can I change your name
+do you mind if I change your last name
+change your last name
+can I change your middle name to Maria
+let's change your last name to Green
+where can I change your middle name to Bee
+I'll rename you
+can I change your name
+let's change your nickname
+I think you should change your nickname to Woo Woo
+where can I change your name
+I'll change your middle name
+I'd like to rename you
+let's change your name
+do you mind if I give you a different name
+
+
+
+
+
+
+
+
+Name Agent confirm
+------------------------------
+is your last name Smith or not
+is your name still Alex
+your middle name is Jane right
+are you Sam
+is your nickname Woo Woo
+are you Mr Evans
+your nickname is Squirrel right
+is your name Nick
+your name is John right
+is your middle name Jane
+is Green your last name
+is your nickname Ice or not
+
+
+
+
+
+
+Name Agent Delete
+------------------------------
+forget that your middle name is Nick
+you are not Sam anymore
+can you forget your last name
+forget that your last name is Green
+can you forget your name
+your surname is not Smith
+forget that you were Anna
+remove your nickname
+your nickname is not Woo Woo
+get rid of your last name
+delete your name
+forget that your name is John
+forget your last name
+your first name is not Sarah
+
+
+
+
+
+
+
+Name Agent feedback bad
+------------------------------
+I don't like your name
+I don't like your last name
+you have a bad name
+you have a bad surname
+your middle name is awful
+your name is awful
+
+
+
+
+
+Name Agent feedback good
+------------------------------
+your middle name is beautiful
+I find your name adorable
+you have a great surname
+your name is cool
+your name is beautiful
+I like your name
+you have a great name
+I like your last name
+
+
+
+Name agent get
+------------------------------
+what should I call you
+do you have a name
+you didn't tell me your name
+do you have a nickname
+I forgot your name
+do you have a middle name
+what is your name
+I'd like to know your middle name
+do you remember your name
+what's your name again
+how can I address you
+your name
+what is your surname
+do you remember your surname
+how can I call you
+what's your nickname again
+I'd like to know your name
+your middle name
+tell me your name
+I forgot your last name
+tell me your last name
+you didn't tell me your last name
+
+
+
+
+
+
+
+Name agent save
+------------------------------
+I'd like to give you a surname
+your new name is Sam
+your new nickname is Ice
+you are Nick
+your last name is Evans
+what if I call you Liza
+your last name will be Green
+your nickname will be Woo Woo
+how can I save your name
+how can I save your last name
+I want to call you Eva from now on
+save your new middle name
+may I pick a nickname for you
+do you mind if I give you a name
+I think the name Jason will suit you better
+I'll call you Mike
+Anna will be your new middle name
+may I call you Betty
+Green is your new surname
+may I pick a name for you
+can I name you
+Maria will be your new middle name
+I'd like to call you Jennifer
+your name is Sam
+I think the nickname Squirrel will suit you better
+do you mind if I give you a surname
+I'd like to give you a name
+
+
+
+
+
+
+Name Agent spelling
+------------------------------
+how is your name spelled
+spell me your last name
+how is your nickname spelled
+spell your name
+your name spelling
+your middle name spelling

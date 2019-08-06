@@ -1,0 +1,31 @@
++first name
+first
+forename
+given
+  
+  
+  
++full name
+
+
++last name   
+family name
+last
+last name
+surname
+
+
+
+
++middle name   
+middle
+
+
+
+
++nickname
+
+
+
++second name   
+second
