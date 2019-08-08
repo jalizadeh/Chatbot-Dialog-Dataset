@@ -1,0 +1,26 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+
+Default Fallback
+------------------------
+...
+
+
+
+<Response>
+I apologize, but I don't understand your request.
+I'm sorry my AI does not recognize that request.
+My AI does not cover that topic yet. If you wish you can request it be added on the official discord server.
+I don't understand.
+Please try your request again.

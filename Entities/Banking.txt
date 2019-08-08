@@ -1,0 +1,90 @@
+& = \u0026
+' = \u0027
+
+
+Account
+---------------------
++checking account
+checking
+
++credit card
+
++savings account
+savings
+
+
+
+
+Category
+---------------------
++ATM Withdrawals
+
++Auto
+Car
+
++Deposits
+deposits
+deposit
+
++Payroll
+
++Restaurants
+Eating out
+
++Shopping
+
++Taxes
+
++Travel
+
++Utilities
+
++Withdrawals
+withdrawals
+withdrawal
+
+
+
+Merchant
+--------------------
++7-Eleven
+
++ARCO
+
++Acme Payroll
+
++Amazon
+
++Belle Tire
+
++Burger King
+
++H&M
+
++Hyatt London
+
++Marks & Spencer
+
++Marriot Paris
+
++PG&E
+
++Papa John's Pizza
+
++Shell
+
++Starbucks
+
+
+
+
+
+
+
+Transfer Type
+-------------------------
++Credit
+
++Deposit
+
++EFT

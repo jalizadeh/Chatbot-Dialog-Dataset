@@ -1,0 +1,51 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Default Welcome
+------------------------
+Heg
+Hej
+Heyo
+Hola
+I greet you
+a good day
+greetings
+hello
+hello again
+hello hi
+hello there
+hey
+hey there
+heya
+hi
+hi dear
+hi there
+howdy
+just going to say hi
+long time no see
+lovely day isn't it
+
+
+
+
+<Response>
+Good day!
+Good day! What can I do for you today?
+Greetings! How can I assist?
+Hej
+Hello, how are you?
+Hello! How can I help you?
+Hey
+Hi there
+Hi! How are you doing?
+Howdy.

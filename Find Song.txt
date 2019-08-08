@@ -1,0 +1,21 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+	
+Find Song
+------------------------
+play history has its eyes on you
+can you find me some chill music?
+play disco
+play some rock for me
+can you find me some hip hop

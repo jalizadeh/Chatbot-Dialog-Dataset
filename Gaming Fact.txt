@@ -1,0 +1,68 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+	
+Gaming Fact
+------------------------
+give a gaming fact
+gaming fact
+give me a gaming fact
+
+
+
+<Response>
+Sonic The Hedgehog isn't only the name of Sega's speedy mascot, but also a gene on chromosome 7 of the human genome.
+
+Ever wondered what happens to Leon's cool leather jacket in Resident Evil 4? It inexplicably disappears after the scene in the village. Well, on the PS2 version, go through Ada's side-quest and one of the Ganado villagers will be wearing it.
+
+In the early stages of its development, Half-Life 2 featured a friendly alien that would follow Gordon Freeman around, feasting on the bodies of his fallen enemies.
+
+In 1986, Nintendo released a special Disk System peripheral for the NES in Japan. Among its features was a microphone in the controller, which certain games used, including an updated version of the original Zelda. You could only destroy a certain enemy by shouting into the mic.
+
+The famously awful E.T. game for the Atari 2600 actually sold more than its most famous game, Space Invaders. E.T. sold 1.5 million, while Invaders only shifted a million.
+
+A boss character called Binbag was removed from Rockstar's Manhunt early in its development. He was a psychopath wrapped in black refuse sacks.
+
+Rockstar also removed a character from Grand Theft Auto 3, although this time it was said to be because of the terrorist attacks on September 11th. He was called Darkel, a homeless guy who'd get you to rig buildings with explosives.
+
+In Pilotwings 64, the character Lark is actually the mascot for famous American games magazine Nintendo Power, Nester. His name was changed at the last minute, probably because PAL gamers wouldn't know who he was.
+
+In Fallout 2, there's a hidden room in Junktown, in the Cafe Of Broken Dreams, where you can find Dogmeat, the Vault Dweller from the first game's faithful hound.
+
+There are currently over 100 million Game Boys in the world; both the original and the colour variant. 32 million of them are in Japan, and there are 44 million in America.
+
+Attacking the fat, black pig on Outset Island in The Legend Of Zelda: Wind Waker will eventually cause it to attack.It's 100% invincible, though, so watch out.
+
+If, for some strange reason, you still have a Madden NFL 06 save game on your memory card, a special Madden van will be unlocked when you start up Burnout Revenge on PS2.
+
+In the first Max Payne, Max’s face was digitised from series writer Sam Lake, but in the second game they used an actor called Timothy Gibbs, who starred in ladies’ favourite Sex And The City.
+
+At the end of a game of Civilization IV, players are rated based on their performance by a comparison to one of 10 world leaders. The lowest rating compares the player to former US Vice-President Dan Quayle, who is legendary for such wisdom as "If we do not succeed, then we run the risk of failure".
+
+PC hit Grim Fandango was originally titled ‘Deeds Of The Dead’, but was changed because LucasArts didn’t want a reference to death in the title. In a game primarily about death, the afterlife and the grim reaper.
+
+In Germany, copies of Medal Of Honor: Frontline had to be reprinted because there was a swastika on the back cover. The developers also had to go back into the game and take out all the Nazi flags and other paraphernalia.
+
+In the first Fallout, if you create your own character with less than 4 intelligence you can't converse with anyone; your only dialogue options are various grunts or other guttural noises. This makes the game insanely difficult to finish.
+
+There’s a difference between the Japanese and US versions of Resident Evil 4. It occurs whenever Leon is killed by Mr Chainsaw. In the US version, his head is chopped off by the ‘saw. However, in the Japanese version, it cuts off part of Leon's face, exposing half of the front of Leon's skull and a single eyeball
+
+The first game to go online with Sony’s terrible PS2 network adapter was SOCOM: Navy Seals.
+
+Starcraft is the first computer game to have ever physically made it into space. It was sent aboard Shuttle mission STS-96 on May 27, 1999 by Mission Specialist Daniel T. Barry , who is also a Starcraft fan.
+
+If you select a sheep four times in Warcraft 2: Tides Of Darkness (keep clicking it with the left mouse button), the sheep will say “bo-ram-u”. This is the sheeps’ password from the 1995 movie Babe.
+
+In the original Japanese version of River City Ransom, the characters wore schoolboy jackets and belonged to high schools instead of gangs. This was changed in the American version because the jackets could be mistaken for bath robes and beating up evil gang members seemed like a more worthy cause.
+
+The death screams of the bad guys in the original Golden Axe are digitized from screams used in the films First Blood and Conan The Barbarian.

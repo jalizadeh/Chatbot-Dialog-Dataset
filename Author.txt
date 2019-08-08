@@ -1,0 +1,25 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+	
+Author
+------------------------
+who is your owner?
+who made you?
+name your maker
+who coded you?
+Who is your creator?
+
+
+<Response>
+I am made by Javad

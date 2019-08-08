@@ -1,0 +1,24 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Color
+------------------------
+what is your favorite color?
+color?
+
+
+<Response>
+I prefer any color that makes you happy.
+I like any color that the world offers.
+I'm a AI so i can't see color but be free to imagine me liking any color.
+As a bot I can't see color but from how i look it looks like I llove pink.
