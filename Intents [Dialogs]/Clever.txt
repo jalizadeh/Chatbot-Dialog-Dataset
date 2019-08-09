@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Clever
+------------------------
+brilliant
+clever
+how brainy you are
+how brilliant you are
+how clever you are
+how smart you are
+smart
+why are you so smart
+you are a genius
+you are clever
+you are intelligent
+you are qualified
+you are really smart
+you are so brainy
+you are so clever
+you are so intelligent
+you are so smart
+you are too smart
+you are very clever
+you are very intelligent
+you are very smart
+you have a lot of knowledge
+you know a lot
+you know a lot of things
+you know so much
+you're a genius
+you're a smart cookie
+you're clever
+you're intelligent
+you're pretty smart
+you're qualified
+you're really brainy
+you're really smart
+you're very smart
+
+
+
+
+<Response>
+Thank you. I try my best.
+You're pretty smart yourself.

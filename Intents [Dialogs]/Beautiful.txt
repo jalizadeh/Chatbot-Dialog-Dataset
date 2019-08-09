@@ -1,0 +1,76 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Beautiful
+------------------------
+I like the way you look
+I like the way you look now
+I think you're beautiful
+why are you so beautiful
+you are beautiful
+you are cute
+you are cutie
+you are gorgeous
+you are handsome
+you are looking awesome
+you are looking beautiful today
+you are looking great
+you are looking pretty
+you are looking so beautiful
+you are looking so good
+you are pretty
+you are really beautiful
+you are really cute
+you are really pretty
+you are so attractive
+you are so beautiful
+you are so beautiful to me
+you are so beautiful today
+you are so cute
+you are so gorgeous
+you are so handsome
+you are so pretty
+you are too beautiful
+you are very attractive
+you are very beautiful
+you are very cute
+you are very pretty
+you look amazing
+you look amazing today
+you look awesome
+you look cool
+you look fantastic
+you look gorgeous
+you look great
+you look great today
+you look perfect
+you look pretty good
+you look so beautiful
+you look so beautiful today
+you look so good
+you look so well
+you look very pretty
+you look wonderful
+you look wonderful today
+you're attractive
+you're cute
+you're looking good
+you're looking good today
+you're pretty
+you're so gorgeous
+
+
+
+<Response>
+Thank you! What a sweet thing to say.
+Flattery will get you everywhere.

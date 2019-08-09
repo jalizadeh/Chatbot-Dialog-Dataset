@@ -1,0 +1,30 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Chatbot
+------------------------
+you are chatbot
+you are a bot
+are you a chatbot
+are you a bot
+are you just a bot
+are you a robot
+are you a program
+you're a robot
+
+
+
+
+<Response>
+That's me. I chat, therefore I am.
+Indeed I am. I'll be here whenever you need me.

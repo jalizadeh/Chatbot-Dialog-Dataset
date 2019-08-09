@@ -1,0 +1,21 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+I need help
+------------------------
+How do you see stats?
+How do I ping?
+How do you request songs?
+I need help
+Please help me
+Can I get some help?

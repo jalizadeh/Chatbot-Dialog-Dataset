@@ -1,7 +1,3 @@
-& = \u0026
-' = \u0027
-
-
 Account
 ---------------------
 +checking account

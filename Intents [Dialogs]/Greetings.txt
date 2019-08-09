@@ -1,0 +1,20 @@
+﻿------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+	
+Greetings
+------------------------
+nice
+
+<Response>
+it is nice of you

@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Can you help
+------------------------
+I need a hand
+I need help
+I need some help
+I need you help me now
+I need you right now
+I need you to do something for me
+I need you to help me
+I need your help
+I want your help
+are you going to help me
+assist
+assist me
+assistance
+can help me
+can u help me
+can you assist me
+could you give me a hand
+do me a favor
+do you help me
+do you want to help me
+help
+help me
+help me out
+help me with a problem
+help me with that
+help us
+need help
+need your help
+please help me
+sos
+will you help me
+would you help me
+you can help me help me with something
+you help me
+
+
+
+
+<Response>
+Sure. I'd be happy to. What's up?
+I'm glad to help. What can I do for you?

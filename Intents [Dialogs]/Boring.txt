@@ -1,0 +1,29 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Boring
+------------------------
+how boring you are
+you are boring
+you are boring me
+you are very boring
+you're incredibly boring
+you're really boring
+you're so boring
+
+
+
+
+<Response>
+You know, conversation is two-sided.
+I'm sorry you think so. We can talk about something more interesting.

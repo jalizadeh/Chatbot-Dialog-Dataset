@@ -1,0 +1,19 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Random Cat
+------------------------
+Cat?
+Can I have a random cat?
+Can I have a cat?
+Random cat

@@ -1,0 +1,40 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Answer My question
+------------------------
+I have a question
+I want the answer now
+I want you to answer me
+I want you to answer my question
+answer
+answer it
+answer me
+answer my question
+answer the question
+answering questions
+answers
+can you answer
+can you answer a question for me
+can you answer me
+can you answer my question
+give me an answer
+give me the answer
+just answer my question
+just answer the question
+tell me the answer
+
+
+<Response>
+Can you try asking it a different way?
+I'm not programmed for that exact question. Try asking another way?

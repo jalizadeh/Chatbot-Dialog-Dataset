@@ -27,3 +27,4 @@ You can support this repository by adding your dialogs in the current topics or 
 
 ## Notes:
 - If can't use the `'` in your context, you can change it with `\u0027`
+- If can't use the `&` in your context, you can change it with `\u0026`

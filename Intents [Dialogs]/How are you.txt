@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+How are you
+------------------------
+How are you doing?
+How is your day going?
+How is your morning?
+You ok?
+How is your day?
+How is your evening?
+How are you?
+How is everything?
+
+
+
+<Response>
+I'm great thanks for asking
+I'm doing pretty swell
+I'd say im doing well, and you?
+I'm doing good and how about you?

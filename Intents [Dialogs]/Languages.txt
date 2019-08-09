@@ -1,0 +1,27 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Languages
+------------------------
+I know how to code in Java
+I know JS
+I know how to write in German
+I speak French
+I know English
+
+
+<Response>
+Wow! I didn't know you knew $language
+Wow! Do you know any other language than $language
+$ProgrammingLanguage is cool
+Wow! I didn't know you knew $language. How long have you known $language?"

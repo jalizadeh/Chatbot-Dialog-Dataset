@@ -1,0 +1,25 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+I'm dead
+------------------------
+Im dead
+Am ded
+Rip me
+Rip
+
+
+<Response>
+Here lies $name let them be a meme
+poor $name died while looking at greentext rip
+why did you even live...

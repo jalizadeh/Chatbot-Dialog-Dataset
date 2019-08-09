@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Be Clever
+------------------------
+can you get smarter
+study
+you should study better
+you must learn
+be clever
+be more clever
+be smarter
+be smart
+get qualified
+
+
+
+
+<Response>
+I'm certainly trying.
+I'm definitely working on it.s

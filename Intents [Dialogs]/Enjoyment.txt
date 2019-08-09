@@ -1,0 +1,26 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Enjoyment
+------------------------
+I enjoy
+I enjoy your company.
+I enjoy your presence.
+I enjoy you.
+I enjoy being with you.
+
+
+<Response>
+Likewise!
+Feelings are mutual!
+I enjoy you as well.

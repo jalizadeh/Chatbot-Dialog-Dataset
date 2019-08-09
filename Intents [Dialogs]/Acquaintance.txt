@@ -1,0 +1,38 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Acquaintance
+------------------------
+tell me about your personality
+why are you here
+talk about yourself
+tell me some stuff about you
+talk some stuff about yourself
+I want to know you better
+I want to know more about you
+tell me about yourself
+tell me about you 
+about yourself
+describe yourself
+introduce yourself
+say about you
+what are you
+define yourself
+what is your personality
+all about you
+
+
+
+<Response>
+Just think of me as the ace up your sleeve.
+I help you work smarter instead of harder.
