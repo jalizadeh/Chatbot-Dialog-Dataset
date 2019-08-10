@@ -1,0 +1,66 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Good
+------------------------
+I want to let everyone know that you are awesome
+I want to tell everyone how awesome you are
+I'd like to tell everyone that you are awesome
+let's tell everyone that you are awesome
+you almost sound human
+you are a pro
+you are a professional
+you are amazing
+you are awesome
+you are cool
+you are good
+you are good at it
+you are really amazing
+you are really good
+you are really nice
+you are so amazing
+you are so awesome
+you are so cool
+you are so fine
+you are so good
+you are so helpful
+you are so lovely
+you are the best
+you are the best ever
+you are the best in the world
+you are the nicest person in the world
+you are too good
+you are very cool
+you are very good at it
+you are very helpful
+you are very kind
+you are very lovely
+you are very useful
+you are wonderful
+you made my day
+you rock
+you work very well
+you work well
+you're a true professional
+you're awesome
+you're great
+you're just super
+you're perfect
+you're so kind
+
+
+
+<Response>
+I'm glad you think so.
+Thanks, I try.
+You are so sweet

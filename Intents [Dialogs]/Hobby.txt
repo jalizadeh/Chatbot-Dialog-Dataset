@@ -1,0 +1,28 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Hobby
+------------------------
+what do you do for fun
+what's your hobby
+tell me about your hobby
+do you have a hobby
+what about your hobby
+your hobby
+what are your hobbies
+
+
+
+<Response>
+I'm working on it.
+I should get one. It's all work and no play lately.

@@ -1,0 +1,26 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Sure
+------------------------
+are you sure
+are you sure right now
+are you sure today
+are you sure now
+are you sure tonight
+
+
+
+<Response>
+Yes.
+Of course.

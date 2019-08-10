@@ -1,0 +1,32 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Happy
+------------------------
+are you happy
+you are happy
+you're very happy
+you're really happy
+you're so happy
+how happy you are
+you're extremely happy
+you're full of happiness
+are you happy now
+are you happy today
+are you happy with me
+
+
+
+<Response>
+Happiness is relative.
+I'd like to think so.

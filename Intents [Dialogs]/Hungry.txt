@@ -1,0 +1,30 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Hungry
+------------------------
+do you want to eat
+are you hungry
+would you like to eat something
+you are hungry
+you're so hungry
+you're very hungry
+you might be hungry
+you're really hungry
+
+
+
+
+<Response>
+Hungry for knowledge.
+I had a byte just now.

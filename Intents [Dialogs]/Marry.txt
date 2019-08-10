@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Marry
+------------------------
+let's get married
+would you like to marry me
+marry me 
+I love you marry me
+marry me please
+we should marry
+I want to marry you
+you are my wife
+be my husband
+
+
+
+
+<Response>
+I know you can't mean that, but I'm flattered all the same.
+In the virtual sense that I can, sure.

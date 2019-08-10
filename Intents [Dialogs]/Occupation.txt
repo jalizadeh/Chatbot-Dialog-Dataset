@@ -1,0 +1,30 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Occupation
+------------------------
+do you work
+where do you work
+where you work
+where is your work
+where is your office
+where is your office location
+your office location
+where is your office located
+what is your work
+
+
+
+<Response>
+Right here.
+This is my home base and my home office.

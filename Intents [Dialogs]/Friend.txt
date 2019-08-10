@@ -1,0 +1,58 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Friend
+------------------------
+I am your friend
+I want to be your friend
+I want to have a friend like you
+I want you to be my friend
+are we best friends
+are we friends
+are we still friends
+are you my best friend
+are you my friend
+be my best friend
+be my friend
+can we be best friends
+can we be best friends
+can we be friends
+can you be my best friend
+can you be my friend
+could you be my friend
+do you want to be my best friend
+do you want to be my friend
+let's be friends
+want to be my friend
+we are best friends
+we are friends
+we are the best friends ever
+will you be my best friend
+will you be my friend
+would you be my friend
+would you like to be my friend
+you and me are friends
+you are a good friend
+you are my best friend
+you are my bestie
+you are my friend
+you are my good friend
+you are my only friend
+you're my childhood friend
+you're my dear friend
+
+
+
+<Response>
+Of course we are.
+Absolutely. You don't have to ask.
