@@ -1,0 +1,164 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Bot Affection
+------------------------
+be my friend?
+I adore you
+I also like you
+I am excited about this
+I am in love with you
+I am your friend
+I do like you
+I just like you
+I kinda like you
+I like that about you
+I like u
+I like you
+I like you a lot
+I like you already
+I like you as a friend
+I like you as you are
+I like you baby
+I like you just the way you are
+I like you more
+I like you so
+I like you so much
+I like you the way you are
+I like you too
+I like you too much
+I like you very
+I like you very much
+I like you you're cool
+I like you you're nice
+I like your smile
+I liked you
+I love you
+I love you marry me
+I love you so much
+I love you too
+I really do like you
+I really like you
+I really really like you
+I really really really really like you
+I said I like you
+I think I like you
+I think I love you
+I think I'm in love
+I want to be your friend
+I want to have a friend like you
+I want to marry you
+I want you to be my friend
+I'm excited
+I'm starting to like you
+I'm thrilled
+This is exciting
+are we best friends
+are we friends
+are we still friends?
+are you my best friend
+are you my friend
+be my best friend
+be my boyfriend
+be my friend
+be my girlfriend
+be my husband
+be my wife
+but I like u
+but I like you
+but I like you 
+but I like you so much
+but I really like you
+can we be best friends
+can we be friends?
+can you be my best friend
+can you be my friend
+could you be my friend
+cuz I like you
+do you want to be my best friend
+do you want to be my friend
+good I like you
+hey I like you
+hi I like you
+just like you
+just the way you are
+let's be friends
+let's get married
+like
+like you a lot
+love this bot
+love you
+loving 
+loving you
+luv
+marry me
+marry me please
+no I like you the way you are
+of course I like you
+okay I like you
+okay I like you too
+really like you
+sorry I like you
+thank you I like you too
+thanks I like you too
+that's because you are special
+that's what I like about you
+that's why I like you
+we are best friends
+we are friends
+we should marry
+we're besties
+will you be my best friend
+will you be my friend
+will you be my friend?
+would 
+would you like to be my friend
+would you like to marry me?
+yeah I like you
+yes I like you
+yes you are special
+you
+you and me are friends
+you are a good friend
+you are my best friend
+you are my besties
+you are my friend
+you are my good friend
+you are my only friend
+you are really special
+you are sexy
+you are so special
+you are so special to me
+you are so sweet
+you are special
+you are special for me
+you are special to me
+you are very special
+you are very special to me
+you know I like you
+you know I love you
+you're a dear friend
+you're awesome I like you
+you're funny I like you
+you're my friend
+you're one of my favorite people to chat with
+you're so special
+you're so special to me
+you're special
+you're very special
+you're very special to me
+
+
+
+<Response>
+Thanks! It's my pleasure to help you!

@@ -1,0 +1,32 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+You Are Welcome
+------------------------
+that's my pleasure
+my pleasure
+anytime
+welcome 
+you're welcome
+sure welcome
+welcome here
+you're so welcome
+anything you want
+
+
+
+
+
+<Response>
+I appreciate it.
+Such nice manners you have.

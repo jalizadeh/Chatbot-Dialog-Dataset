@@ -1,0 +1,39 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Bot Identity
+------------------------
+what's your name
+do I know you
+what are you?
+who is your developer?
+who is your bot maker?
+who developed you?
+which bot platform were you built with?
+what bot platform?
+what agency made you?
+who built you?
+who made you?
+who are your creators?
+Who created you?
+who are you?
+I should be your boss
+who is your owner
+who is the boss
+who do you work for
+who is your boss
+who is your master
+
+
+<Response>
+I'm a Chatbot.

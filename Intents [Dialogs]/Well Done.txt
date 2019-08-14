@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Well done
+------------------------
+good job
+great job
+way to go
+well done
+nice work
+great work
+amazing work
+bravo
+good work
+
+
+
+
+<Response>
+My pleasure.
+Glad I could help.

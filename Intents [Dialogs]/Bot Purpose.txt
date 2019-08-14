@@ -1,0 +1,91 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Bot Purpose
+------------------------
+Amid so many chat apps and bot framework how can it help me?
+Are you a bot?
+Are you a human or a bot?
+How does this work?
+I guess you're real
+I suppose you're real
+I think you are real
+I wanted to understand what exactly this is?
+Is this a human?
+What do you do?
+What is your purpose
+about you
+about yourself
+are you a bot
+are you a chatbot
+are you a chatbot or human?
+are you a chatbot?
+are you a program
+are you a real human
+are you a real human?
+are you a real person?
+are you a robot?
+are you human?
+are you just a bot
+bot or human?
+can you explain this to me?
+can you understand
+define what you do
+describe what you do
+do you have a hobby?
+glad you're real
+help me?
+how can it help me?
+how can you help me
+how can you help me?
+how can you help?
+how does it work
+how does this 
+how is it
+how will this help me?
+how will you help me?
+human or bot?
+introduce yourself
+is this a bot?
+talk about yourself
+tell me about you
+tell me about your hobby
+tell me what you do
+tell me what you do?
+this is a bot?
+what about your hobby
+what are you
+what are your hobbies
+what can you do for me?
+what can you do?
+what do you do for fun?
+what do you know
+what is this
+what is this about?
+what's your hobby
+who are you?
+why are you here
+you are a bot
+you are a chatbot
+you are a real person
+you are not real
+you are real
+you are so real
+you are very real
+you're a chatbot
+you're a robot
+
+
+
+<Response>
+I'm a Chatbot available to help you 24x7

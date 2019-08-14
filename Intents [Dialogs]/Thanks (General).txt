@@ -1,0 +1,69 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Thanks (General)
+------------------------
+Amazing service
+Cool. Thank you. I really like what you're doing.
+I appreciate it
+I appreciate your help
+I thank you
+It's appreciated
+Thanks for the help!
+alright thank you
+alright thanks
+appreciate all the help
+appreciate your help
+awesome service
+cheers
+good thanks
+great thank you
+many thanks
+much appreciated
+much thanks
+nice thank you
+no thank you that's all
+ok thx
+perfect thank you
+so nice of you
+sure, np. thanks!
+terrific thank you
+thank you
+thank you again
+thank you for your help
+thank you my friend
+thank you so much
+thank you that will be all
+thanks
+thanks a lot
+thanks again
+thanks buddy
+thanks for your help
+thanks love
+thanks so much
+thanx
+that's appreciated
+thnx
+thx
+thx for your help
+tnx
+ty
+very good thank you
+well thank you
+well thanks
+you helped a lot thank you
+
+
+
+<Response>
+No problem!

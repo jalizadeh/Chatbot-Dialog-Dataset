@@ -1,0 +1,71 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Stop (General)
+------------------------
+please stop this now
+enough please
+stop this now
+stop doing that
+please stop this
+No, thanks
+now you're fired
+I will fire you
+you are fired
+you should be fired
+we're done
+I'm done here
+I'm finished here
+I'm finished with 
+you
+It's over
+I want to fire you
+I'm firing you
+you are dismissed
+time to fire you
+you're fired
+you've been terminated
+stop bugging me
+leave me alone
+I have no time
+I'm working
+I don't have time for this
+I got work to do
+I'm busy
+I'm swamped
+I got things to do
+I'm overloaded
+stop immediately
+you need to stop
+Can you stop?
+How do you stop?
+quit
+please stop messaging me
+please don't message
+don't message me
+I don't want to chat
+Stop sending me messages immediately
+No messages please
+stop sending me messages now
+why do you keep sending me messages
+stop sending me messages
+please stop
+stop this
+stop
+Cancel
+Stop it
+done
+
+
+<Response>
+No problem.
