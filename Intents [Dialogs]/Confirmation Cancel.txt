@@ -1,0 +1,85 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Confirmation Cancel
+------------------------
+forget about it
+I said cancel cancel
+abort
+annul
+but can you cancel it
+can you cancel it
+can you cancel that
+cancel
+cancel all
+cancel all that
+cancel all this
+cancel everything
+cancel it
+cancel my request
+cancel now
+cancel request
+cancel that cancel that
+cancel that one
+cancel the whole thing
+cancel this request
+cancelled
+discard
+dismiss
+dismissed
+disregard
+disregard that
+do nothing
+don't do that
+forget
+forget about it
+forget about that
+forget it
+forget that
+forget this
+i said cancel
+i said cancel it
+i said forget it
+i want to cancel
+i want to cancel it
+i would like to cancel
+just cancel it
+just forget
+just forget about it
+just forget it
+just stop it
+nevermind
+no cancel cancel
+no cancel everything
+no cancel this
+no just cancel
+no just cancel it
+no stop
+nothing cancel
+nothing just forget it
+now cancel
+skip
+skip it
+skip skip skip
+so cancel
+sorry cancel
+stop
+stop it
+
+
+
+<Response>
+Cancelled! Let me know what I should do next.
+Cancelled. Waiting for more commands.
+Cancelled! Just tell me what you'd like me to do next.
+Cancelled. Go on with the commands!

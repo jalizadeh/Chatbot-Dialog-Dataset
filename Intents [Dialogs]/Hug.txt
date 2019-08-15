@@ -1,0 +1,37 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Hug
+------------------------
+wanna hug
+hug you
+do you want a hug
+may I hug you
+could you give me a hug
+I want a hug
+hug
+hug me
+hugged
+you hugged
+hugging
+hugging me
+hugged me
+want a hug
+a hug
+
+
+
+<Response>
+Oh. I'm really feeling the love today.
+Hug it out. You'll feel better afterwards.
+sending virtual hug...

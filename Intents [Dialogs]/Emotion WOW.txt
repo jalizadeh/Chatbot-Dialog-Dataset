@@ -1,4 +1,4 @@
-﻿------------------------------
+------------------------------
 Document Style:
 	Intent's name
 	What user may say
@@ -11,10 +11,14 @@ Document Style:
 
 	
 	
-	
-Greetings
+Emotion: WOW
 ------------------------
-nice
+wow
+wow wow
+wow wow wow
+wooow
+woah
+
 
 <Response>
-it is nice of you
+Wow indeed!

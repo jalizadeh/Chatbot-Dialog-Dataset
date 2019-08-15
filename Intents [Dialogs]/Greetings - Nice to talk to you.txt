@@ -1,0 +1,30 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Greetings: nice to talk to you
+------------------------
+it's been so nice to talk to you
+it's been a pleasure talking to you
+nice to talk to you
+it's nice to talk to you
+nice talking to you
+it is nice talking to you
+how nice it is to talk to you
+
+
+
+<Response>
+Always a pleasure.
+It sure was. Don't be a stranger!
+Thanks for dropping by!
+As usual. Let's do it again soon.

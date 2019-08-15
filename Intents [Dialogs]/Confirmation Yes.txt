@@ -1,0 +1,105 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Confirmation yes
+------------------------
+I agree
+I do
+I don't mind
+I guess
+I think so
+absolutely
+affirmative
+all right
+alrighty
+certainly
+confirm
+confirmed
+correct
+definitely
+do it
+exactly
+for sure
+go ahead
+go for it
+it's fine
+k
+looks good
+nevermind its okay
+obviously
+of course
+of course why not
+oh yes
+ok
+ok go ahead
+ok sure
+ok thank you
+ok yes
+ok you can
+okay
+okay sounds good
+okay that's fine
+okay then
+okey
+okie dokie
+please do
+sounds good
+sure
+sure is
+sure thing
+sure why not
+thank you
+that is ok
+that s okay
+that's correct
+this is correct
+why not
+ya
+yap
+ye
+yea
+yeah
+yeah I'm sure
+yeah exactly
+yeah go ahead
+yeah of course
+yeah right
+yeah sure
+yeah that's right
+yeh
+yep
+yes
+yes I agree
+yes I do
+yes I would like to
+yes correct
+yes definitely
+yes indeed
+yes it is correct
+yes it isright
+yes of course
+yes right
+yes sure
+yes that's fine
+yes this is correct
+yes you may
+yup
+
+
+
+
+<Response>
+Great!
+Of course.
+Sure.
+Indeed.

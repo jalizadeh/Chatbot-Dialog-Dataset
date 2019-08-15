@@ -1,0 +1,33 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Greetings: nice to meet you
+------------------------
+nice to meet you
+it was nice meeting you
+it was very nice to meet you
+good to know each other
+glad to meet you
+nice meeting you
+nice to meet you too
+pleased to meet you
+pleasure to meet you
+pleasure to meet you too
+
+
+
+<Response>
+I think this is the beginning of a beautiful friendship.
+I'm looking forward to working with you.
+Likewise. I look forward to getting to know you better.
+The pleasure is mine.

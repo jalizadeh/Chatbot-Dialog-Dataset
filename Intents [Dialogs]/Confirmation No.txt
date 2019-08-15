@@ -1,0 +1,91 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Confirmation NO
+------------------------
+I disagree
+I don't think so
+I don't want
+I don't want that
+I don't want to
+I said no
+I say no
+I think no
+I'm not
+absolutely no
+absolutely not
+actually no
+apparently not
+definitely not
+disagree
+do not
+don't
+don't have a sense
+how about no
+leave it
+let 's not
+na
+nah
+never
+no
+no I don't
+no I would not
+no actually
+no but thank you
+no do not
+no don't
+no don't do that
+no forget
+no incorrect
+no it isn't
+no it's not
+no just no
+no need
+no need thanks
+no never
+no sorry
+no tanks
+no thank you
+no thank you though
+no thank you very much
+no thanks
+no thanks not right now
+no that's fine thank you
+no that's wrong
+no way
+nooo
+nope
+nope sorry
+not at this time
+not exactly
+not interested
+not needed
+not really
+not really no
+not right now
+not right now thanks
+not that
+not this
+not this time
+not today
+of course not
+sorry no
+thanks but no thanks
+
+
+
+<Response>
+Okay.
+I see.
+I understand.
+Okay then.

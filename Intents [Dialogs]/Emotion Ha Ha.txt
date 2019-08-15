@@ -1,0 +1,56 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Emotion: Ha Ha
+------------------------
+LMAO
+ah
+ah ah ah
+ahah
+ahah lol
+ahaha
+ahahah
+ahahaha
+funny
+ha
+ha ha
+ha ha ha
+ha ha ha ha
+hah
+haha
+haha haha haha
+haha that's 
+haha very 
+hahaha
+hahaha 
+hahaha very 
+he
+hehe
+hehehe
+huh
+laughing out 
+lmao
+lol
+loud
+that's 
+xd
+
+
+
+
+
+<Response>
+Yeah, I crack myself up too.
+Laughter is good for you. Keep it up.
+See? Now we're having fun.
+You have a great laugh.

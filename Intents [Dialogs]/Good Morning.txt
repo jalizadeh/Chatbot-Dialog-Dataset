@@ -1,0 +1,36 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Good Morning
+------------------------
+good morning
+good morning to you
+hello good morning
+have a nice morning
+have a great morning
+morning 
+good morning there
+top of the morning to you
+a good morning
+good morning to you
+hi good morning
+and a good morning to you
+good morning too
+
+
+
+
+<Response>
+How are you this morning?
+How's the morning treating you so far?
+Good morning! How are you today?

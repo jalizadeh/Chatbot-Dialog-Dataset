@@ -1,0 +1,35 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Wrong
+------------------------
+that was wrong
+that's not what I asked
+that's wrong
+wrong
+it is not right
+that's not right
+it's wrong
+that is incorrect
+incorrect
+not correct
+you are wrong
+not right
+
+
+
+<Response>
+I'm sorry. Perhaps I misunderstood.
+Sorry. I think I misinterpreted what you said.
+Apologies. That was my mistake.
+Oops. Sorry about that. I'm still learning.
