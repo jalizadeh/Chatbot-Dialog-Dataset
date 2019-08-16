@@ -1,0 +1,191 @@
+Delivery Pickup
+---------------------
++delivery
+bring me
+deliver
+
++pick-up
+carry out
+pick up
+pickup
+to go
+to-go
+
+
+
+
+Drinks
+---------------------
++Americano
+
++Barista Coffee
+
++Cappuccino
+
++Cocoa
+
++Espresso
+
++Espresso Macchiato
+
++Espresso con Panna
+
++Hot Chocolate
+
++Latte
+
++Macchiato
+
++Tea
+
++coffee
+
+
+
+
+
+
+Flavor
+--------------------
++almond
+almond paste
+
++blueberry
+
++caramel
+
++cheese
+
++cream cheese
+
++hazelnut
+
++peppermint
+
++raspberry
+
++strawberry
+
++sugar-free vanilla
+sugar free vanilla
+
++vanilla
+
+
+
+
+
+
+Iced
+-------------------------
++chilled
+
++cold
+
++iced
+
++on ice
+
+
+
+
+
+
+
+Iced
+-------------------------
++almond milk
+almond"
+
+
++cream
+half and half
+half-and-half
+
++non fat milk
+non fat
+non-fat
+skinny
+
++regular milk
+low fat
+low-fat
+lowfat
+normal
+regular
+two percent
+
++soy milk
+soy
+
+
+
+
+
+
+Size
+-------------------------
++large
+big
+huge
+large
+
++medium
+
++small
+little
+short
+small
+tall
+
+
+
+
+
+
+Snack
+-------------------------
+Bagel
+
+Caesar Salad
+
+Carrot Cake
+
+Croissant
+
+Cupcake
+
+Danish
+
+Deep Dish Cake
+
+Doughnut
+
+Greek Salad
+
+Mediterranean Salad
+
+Muffin
+
+Plum Cake
+
+Salad
+
+Strudel
+
+
+
+
+
+Topping
+-------------------------
+caramel
+
++chocolate
+chocolate drizzle
+chocolate syrup
+
+cinnamon
+
++whipped cream
+whip
