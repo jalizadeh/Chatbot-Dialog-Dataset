@@ -1,0 +1,234 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Reaction positive
+------------------------
+I know that's right
+I love this
+I'm glad to hear that
+I'm happy
+I'm impressed
+Sure
+amazing
+amazing work
+anytime
+awesome
+bravo
+brilliant
+clever
+cool
+excellent
+fantastic
+fine
+glad to hear it
+glad to hear that
+good
+good for you
+good job
+good thing
+good to hear from you
+good to know
+good work
+great
+great job
+great work
+happy
+happy for you
+happy to hear from you
+happy to see you
+if you're happy than I'm happy
+it is fine
+it is good
+it is true
+it was good
+it's amazing
+it's awesome
+it's fine
+it's good
+it's great
+it's perfect
+it's right
+it's the truth
+it's true
+it's very good
+just perfect
+marvelous
+much better
+nice
+nice work
+no it's okay
+not bad
+not too bad
+oh well
+ok good
+okay good
+ooooh
+perfect
+pleasant
+pretty good
+really cool
+really good
+really great
+really nice
+really well
+simply awesome
+smart
+smart cookie
+so awesome
+so cool
+so good
+so nice of you
+so sweet of you
+splendid
+straight
+super
+super awesome
+super cool
+super fantastic
+sweet
+terrific
+that is awesome
+that is correct
+that is good
+that is nice
+that is right
+that is true
+that is very true
+that is wonderful
+that was amazing
+that was awesome
+that was cute
+that was good
+that was pretty good
+that was very good
+that's a good idea
+that's a good thing
+that's amazing
+that's awesome
+that's awesome thank you
+that's better
+that's correct
+that's cute
+that's fantastic
+that's fine
+that's great
+that's much better
+that's nice
+that's nice of you
+that's not bad
+that's perfect
+that's pretty good
+that's really good
+that's really nice
+that's right
+that's smart
+that's so true
+that's sweet of you
+that's true
+that's very good
+that's very nice
+that's very nice of you
+that's wonderful
+this is awesome
+this is good
+this is great
+this is so awesome
+this is sweet
+this is the best
+this is useful
+this is well done
+true
+very awesome
+very good
+very nice
+very sweet
+very then
+very well
+way to go
+well done
+what you say is true
+woah
+wonderful
+wow
+wow 
+wow wow
+wow wow wow
+you are a genius
+you are amazing
+you are awesome
+you are cool
+you are correct
+you are good
+you are intelligent
+you are kind
+you are really amazing
+you are right
+you are so amazing
+you are so awesome
+you are so clever
+you are so cool
+you are so good
+you are so right
+you are so smart
+you are the best
+you are too good
+you are very cool
+you are very helpful
+you are very kind
+you are very qualified
+you have lots of knowledge
+you know a lot
+you know best
+you know so much
+you made my day
+you rock
+you seem to know
+you sound human
+you speak the truth
+you work very well
+you work well
+you're a genius
+you're a pro
+you're absolutely right
+you're awesome
+you're bae
+you're brilliant
+you're clever
+you're definitely right
+you're good
+you're good at this
+you're great
+you're helpful
+you're intelligent
+you're lovely
+you're never wrong
+you're not wrong
+you're quite smart
+you're really nice
+you're really smart
+you're right about that
+you're smart
+you're so smart
+you're super
+you're telling the truth
+you're the best
+you're the bomb
+you're the shit
+you're very smart
+you're wonderful
+
+
+
+
+<Response>
+Thanks!  Anything else I can help you with?

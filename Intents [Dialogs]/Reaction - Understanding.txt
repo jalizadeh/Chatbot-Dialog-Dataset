@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Reaction understanding
+------------------------
+it's not a problem
+it's no problem
+no probs
+no worries
+no problem about that
+No problem with that
+sure no problem
+no problem
+don't worry about it
+not to worry
+Don't worry
+
+
+
+<Response>
+OK, thanks.

@@ -13,6 +13,7 @@ Document Style:
 
 
 Care the Language
+------------------------
 bad language
 your language is bad
 please watch your language
@@ -35,6 +36,7 @@ I apologize for my rude rantings.
 
 
 Greetings whatsup
+------------------------
 what is on your mind
 what's happened
 what is up
@@ -65,6 +67,7 @@ Living the dream.
 
 
 Life
+------------------------
 What is the meaning of life?
 What is the meaning of living?
 Meaning of life?
@@ -88,6 +91,7 @@ The meaning of life can be interpreted in almost limitless ways. But I say The m
 
 
 Reaction Amused
+------------------------
 Can you tell me a joke?
 Do you have a joke?
 I am joking
@@ -160,6 +164,7 @@ I'm usually not that funny, but I am artificially intelligent...
 
 
 Reaction indifferent
+------------------------
 no hurry
 no rush
 No big deal
@@ -182,6 +187,7 @@ OK cool.
 
 
 Reaction negative
+------------------------
 I am angry with you
 I am feeling sad
 I am getting bored
@@ -399,6 +405,7 @@ You seem upset. Let me try and help you.
 
 
 Reaction positive
+------------------------
 I know that's right
 I love this
 I'm glad to hear that
@@ -648,6 +655,7 @@ why would you say that
 
 
 Reaction understanding
+------------------------
 it's not a problem
 it's no problem
 no probs
@@ -669,6 +677,7 @@ OK, thanks.
 
 
 Refocus
+------------------------
 how?
 show me
 tell me

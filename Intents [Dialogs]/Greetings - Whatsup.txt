@@ -1,0 +1,39 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Greetings: Whatsup
+------------------------
+what is on your mind
+what's happened
+what is up
+what's up
+whazzup
+good what's up
+I said what's up
+then what's up
+what's shaking
+wassup
+what is going on
+what is happening
+what's cracking
+what's cooking
+hey what's up
+what's up today
+
+
+
+<Response>
+Hey there. What's shaking?
+Not a whole lot. What's going on with you?
+Not much. What's new with you?
+Living the dream.

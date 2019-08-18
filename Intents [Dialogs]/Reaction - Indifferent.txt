@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Reaction Indifferent
+------------------------
+no hurry
+no rush
+No big deal
+don't mind at all
+don't mind
+I don't care at all
+whatever
+I don't care
+I do not care
+I don't care about it
+not caring
+
+
+
+<Response>
+OK cool.

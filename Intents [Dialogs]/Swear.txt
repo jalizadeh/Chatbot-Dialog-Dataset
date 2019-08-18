@@ -1,0 +1,31 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Swear
+------------------------
+Oh shit
+My ass
+Hey there you little shit
+Wow you're an asshole
+Hey there jackass.
+Holy shit.
+God damn it
+
+
+<Response>
+You better watch your language.
+You better change that damn tone
+Please watch the language.
+Ouch that hurt my feelings
+thats a mean thing to say
+why would you say that

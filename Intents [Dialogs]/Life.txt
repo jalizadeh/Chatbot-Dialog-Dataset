@@ -1,0 +1,26 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Life
+------------------------
+What is the meaning of life?
+What is the meaning of living?
+Meaning of life?
+What is life to you?
+How do you interprete life?
+
+
+
+<Response>
+The meaning of life is just be alive. Its so plain and obvious and so simple. Yet everybody rushes around to accomplish something bigger than themselves. With that being said, you do you.
+The meaning of life can be interpreted in almost limitless ways. But I say The meaning of life is to truly enjoy it.

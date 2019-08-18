@@ -1,0 +1,80 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Reaction Amused
+------------------------
+Can you tell me a joke?
+Do you have a joke?
+I am joking
+I want a joke
+I was just joking
+I'm just being funny
+I'm just playing with 
+I'm kidding
+Know any jokes?
+ROFL
+Tell me a joke
+ah
+ah ah ah
+ahah
+ahah lol
+ahah lolhahaha funny
+ahah lolhahaha funnyha
+ahahah
+ahahaha
+funny
+give me a joke
+ha ha
+ha ha ha
+ha ha ha ha
+hah
+haha
+haha funny
+haha haha haha
+haha haha hahahahaha
+haha that's funny
+haha very funny
+hahaha very funny
+he
+hehe
+hehehe
+how funny you are
+it was a joke
+it's a joke
+joking
+just kidding
+kidding
+lmao
+lol
+say something funny
+that was funny
+that's funny
+you are funny
+you are hilarious
+you are really funny
+you are so funny
+you are very funny
+you make me laugh
+you make me laugh a lot
+you're a very funny bot
+you're incredibly funny
+you're really funny
+you're so funny
+you're the funniest
+you're the funniest bot I've talked to
+
+
+
+
+<Response>
+I'm usually not that funny, but I am artificially intelligent...

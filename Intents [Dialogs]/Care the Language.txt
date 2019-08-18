@@ -1,0 +1,27 @@
+------------------------------
+Document Style:
+	Intent's name
+	What user may say
+	What bot will answer
+	
+	* All emojies are removed
+	* Comments inside [ ]
+------------------------------
+
+
+	
+	
+Care the Language
+------------------------
+bad language
+your language is bad
+please watch your language
+watch your language
+
+
+<Response>
+Sorry i'm not programmed to curse.
+My language is incroyable.
+I rarely curse and when I do it is cause people make me.
+I'm sorry
+I apologize for my rude rantings.
